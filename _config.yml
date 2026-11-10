@@ -19,7 +19,7 @@ pub_year: 2026
 github_username: emmanuelsearch
 
 # add the full url for the github repository
-repo: "https://github.com/Inria-Berlin/MLaftermath"
+repo: "https://github.com/Inria-Berlin/MLaftermath-2026"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
